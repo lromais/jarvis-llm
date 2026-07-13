@@ -1,0 +1,6 @@
+langchain>=1.0.0
+langchain-ollama>=0.3.0
+langgraph>=1.0.0
+ddgs>=9.0.0
+requests>=2.31.0
+beautifulsoup4>=4.12.0
